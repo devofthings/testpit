@@ -1,0 +1,14 @@
+{
+  "name": "testpit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/devofthings/testpit.git",
+  "author": "Chris Winter <chris-winter@live.de>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
